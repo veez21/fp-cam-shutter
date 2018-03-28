@@ -1,0 +1,7 @@
+id=fpcam
+name=FP Camera Shutter
+version=v2
+versionCode=3
+author=veez21
+description=Uses Fingerprint scanner to take a picture.
+minMagisk=1500
